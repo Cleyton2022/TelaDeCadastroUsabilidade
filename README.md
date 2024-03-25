@@ -1,2 +1,4 @@
 # TelaDeCadastroUsabilidade
  Ergonomia em Interação Humano-Computador (IHC)
+ 
+Este projeto de Engenharia de Usabilidade visa criar uma tela de cadastro de funcionários para uma empresa de Recursos Humanos (RH), aplicando os princípios de Ergodesign e Interação Humano-Computador (IHC). Através da aplicação desses conceitos, busca-se desenvolver uma interface intuitiva, ergonômica e eficiente, visando melhorar a experiência do usuário e facilitar a gestão de informações de funcionários. Este resumo destaca os principais objetivos, funcionalidades esperadas, resultados esperados, tecnologias utilizadas e a composição da equipe de desenvolvimento.
